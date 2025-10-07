@@ -62,6 +62,11 @@
     <img src="https://github.com/devjibs/devjibs/blob/main/assets/tech_flow.gif" width="80" height="30" style="position: absolute; bottom: 10px; right: 10px;"/>
   </div>
   
+  <!-- UNDERLINE FOR CORE EXPERTISE -->
+  <div align="center" style="margin: 20px 0;">
+    <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #000000, transparent); width: 60%; margin: 0 auto;"/>
+  </div>
+  
   <br>
   
   <!-- ANIMATED PROFILE IMAGE WITH SURROUNDING EFFECTS -->
