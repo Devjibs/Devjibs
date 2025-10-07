@@ -15,28 +15,27 @@
 
 <!-- UNIQUE PROFILE LAYOUT -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h2>🎯 Mission Statement</h2>
-        <p align="left">
-          <strong>Transforming ideas into intelligent solutions</strong> through cutting-edge software engineering and AI innovation. 
-          With 5+ years of experience in enterprise development, I specialize in architecting scalable systems that drive business growth.
-        </p>
-        
-        <h3>🧠 Core Expertise</h3>
-        <p align="left">
-          • <strong>Backend Architecture:</strong> .NET Core, Microservices, Event-Driven Design<br>
-          • <strong>Cloud Platforms:</strong> Azure, AWS, Container Orchestration<br>
-          • <strong>AI Integration:</strong> Machine Learning, Data Analytics, Intelligent Systems<br>
-          • <strong>Mobile Development:</strong> Xamarin, React Native, Cross-Platform Solutions
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #000000; box-shadow: 0 0 30px #000000;"/>
-      </td>
-    </tr>
-  </table>
+  
+  <h2>🎯 Mission Statement</h2>
+  <p align="center">
+    <strong>Transforming ideas into intelligent solutions</strong> through cutting-edge software engineering and AI innovation. 
+    With 5+ years of experience in enterprise development, I specialize in architecting scalable systems that drive business growth.
+  </p>
+  
+  <br>
+  
+  <h3>🧠 Core Expertise</h3>
+  <p align="center">
+    • <strong>Backend Architecture:</strong> .NET Core, Microservices, Event-Driven Design<br>
+    • <strong>Cloud Platforms:</strong> Azure, AWS, Container Orchestration<br>
+    • <strong>AI Integration:</strong> Machine Learning, Data Analytics, Intelligent Systems<br>
+    • <strong>Mobile Development:</strong> Xamarin, React Native, Cross-Platform Solutions
+  </p>
+  
+  <br>
+  
+  <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #000000; box-shadow: 0 0 30px #000000;"/>
+  
 </div>
 
 <br>
