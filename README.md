@@ -71,18 +71,7 @@
 
 <!-- CREATIVE CODING ANIMATION ABOVE TECH STACK -->
 <div align="center">
-  <div style="position: relative; margin: 30px 0;">
-    <!-- FLOATING CODE PARTICLES -->
-    <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" width="400" height="100" style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); z-index: 1; opacity: 0.7;"/>
-    
-    <!-- DEVELOPER CODING ANIMATION -->
-    <div style="position: relative; z-index: 2;">
-      <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="300" height="200" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);"/>
-    </div>
-    
-    <!-- FLOATING TECH ICONS -->
-    <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/code.gif" width="350" height="80" style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); z-index: 1; opacity: 0.8;"/>
-  </div>
+  <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_animation.gif" width="500" height="250" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.3); margin: 20px 0;"/>
 </div>
 
 <!-- INNOVATIVE TECH STACK VISUALIZATION -->
