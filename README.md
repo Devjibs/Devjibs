@@ -1,14 +1,14 @@
 
-<!-- CUSTOM HEADER WITH MATRIX EFFECT -->
+<!-- CUSTOM HEADER WITH TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=HABEEB+AJIDE;Experienced+Software+Engineer+%26+AI+Engineer;Building+the+Future+with+Code+%26+Intelligence;.NET+%7C+Cloud+%7C+Microservices+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=HABEEB+AJIDE;Experienced+Software+Engineer+%26+AI+Engineer;Building+the+Future+with+Code+%26+Intelligence;.NET+%7C+Cloud+%7C+Microservices+%7C+AI" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- CUSTOM MATRIX-STYLE BANNER -->
+<!-- CUSTOM BANNER -->
 <div align="center">
-  <img src="https://github.com/devjibs/devjibs/blob/main/assets/matrix_code.gif" width="100%" height="200" style="border-radius: 15px; box-shadow: 0 0 20px #00FF41;"/>
+  <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_banner.gif" width="100%" height="200" style="border-radius: 15px; box-shadow: 0 0 20px #000000;"/>
 </div>
 
 <br>
@@ -33,7 +33,7 @@
         </p>
       </td>
       <td width="40%" align="center">
-        <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #00FF41; box-shadow: 0 0 30px #00FF41;"/>
+        <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #000000; box-shadow: 0 0 30px #000000;"/>
       </td>
     </tr>
   </table>
@@ -75,17 +75,17 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=devjibs&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=devjibs&show_icons=true&theme=light&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&include_all_commits=true&count_private=true" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjibs&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjibs&theme=light&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjibs&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjibs&theme=light&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&layout=compact&langs_count=8" />
 </div>
 
 <br>
@@ -93,7 +93,7 @@
 <!-- CUSTOM CONTRIBUTION GRAPH -->
 <div align="center">
   <h2>🔥 Code Contribution Heatmap</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjibs&theme=dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&custom_title=Development%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjibs&theme=light&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&custom_title=Development%20Activity" />
 </div>
 
 <br>
@@ -102,41 +102,44 @@
 <div align="center">
   <h2>🚀 Project Portfolio</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-    
-    <!-- Project Card 1 -->
-    <div style="background: linear-gradient(135deg, #000000 0%, #001a00 100%); padding: 20px; border-radius: 15px; border: 2px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
-      <h3 style="color: #00FF41;">🏠 QuickTeller Homes</h3>
-      <p><strong>Enterprise Housing & Payment System</strong></p>
-      <p>• Microservices Architecture<br>• 40% Scalability Increase<br>• Real-time Payment Processing</p>
-      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-    </div>
-    
-    <!-- Project Card 2 -->
-    <div style="background: linear-gradient(135deg, #000000 0%, #001a00 100%); padding: 20px; border-radius: 15px; border: 2px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
-      <h3 style="color: #00FF41;">🏥 CarePlus HMO</h3>
-      <p><strong>Healthcare Management System</strong></p>
-      <p>• .NET Core 3.1<br>• SQL Server Integration<br>• Enterprise User Management</p>
-      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-    </div>
-    
-    <!-- Project Card 3 -->
-    <div style="background: linear-gradient(135deg, #000000 0%, #001a00 100%); padding: 20px; border-radius: 15px; border: 2px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
-      <h3 style="color: #00FF41;">📱 Sureswipe Mobile</h3>
-      <p><strong>React Native Performance</strong></p>
-      <p>• 30% Performance Boost<br>• Cross-platform Solution<br>• Real-time Features</p>
-      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-    </div>
-    
-    <!-- Project Card 4 -->
-    <div style="background: linear-gradient(135deg, #000000 0%, #001a00 100%); padding: 20px; border-radius: 15px; border: 2px solid #00FF41; box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
-      <h3 style="color: #00FF41;">🔐 Easy Auth Package</h3>
-      <p><strong>NPM Authentication Library</strong></p>
-      <p>• 100+ Downloads/Month<br>• Social Authentication<br>• Customizable Solution</p>
-      <img src="https://img.shields.io/badge/Status-Published-blue?style=flat-square" />
-    </div>
-    
-  </div>
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); padding: 20px; border-radius: 15px; border: 2px solid #000000; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); margin: 10px;">
+          <h3 style="color: #000000;">🏠 QuickTeller Homes</h3>
+          <p><strong>Enterprise Housing & Payment System</strong></p>
+          <p>• Microservices Architecture<br>• 40% Scalability Increase<br>• Real-time Payment Processing</p>
+          <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+        </div>
+      </td>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); padding: 20px; border-radius: 15px; border: 2px solid #000000; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); margin: 10px;">
+          <h3 style="color: #000000;">🏥 CarePlus HMO</h3>
+          <p><strong>Healthcare Management System</strong></p>
+          <p>• .NET Core 3.1<br>• SQL Server Integration<br>• Enterprise User Management</p>
+          <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); padding: 20px; border-radius: 15px; border: 2px solid #000000; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); margin: 10px;">
+          <h3 style="color: #000000;">📱 Sureswipe Mobile</h3>
+          <p><strong>React Native Performance</strong></p>
+          <p>• 30% Performance Boost<br>• Cross-platform Solution<br>• Real-time Features</p>
+          <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+        </div>
+      </td>
+      <td width="50%">
+        <div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); padding: 20px; border-radius: 15px; border: 2px solid #000000; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); margin: 10px;">
+          <h3 style="color: #000000;">🔐 Easy Auth Package</h3>
+          <p><strong>NPM Authentication Library</strong></p>
+          <p>• 100+ Downloads/Month<br>• Social Authentication<br>• Customizable Solution</p>
+          <img src="https://img.shields.io/badge/Status-Published-blue?style=flat-square" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -165,29 +168,23 @@
 
 <!-- CUSTOM FOOTER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+the+Future+%7C+One+Commit+at+a+Time;Ready+to+Collaborate+%7C+Let's+Connect!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Building+the+Future+%7C+One+Commit+at+a+Time;Ready+to+Collaborate+%7C+Let's+Connect!" alt="Footer Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devjibs&label=Profile%20views&color=00FF41&style=flat" alt="devjibs" />
-</div>
-
-<!-- Custom Snake Animation -->
-<div align="center">
-  <h3>🐍 Code Evolution</h3>
-  <img src="https://github.com/devjibs/devjibs/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=devjibs&label=Profile%20views&color=000000&style=flat" alt="devjibs" />
 </div>
 
 <!-- Unique Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=Innovation+Never+Stops&fontSize=25&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Innovation+Never+Stops&fontSize=25&fontColor=ffffff" />
 </div>
 
 <!-- Signature -->
 <div align="center">
-  <p style="color: #00FF41; font-family: 'Courier New', monospace;">
+  <p style="color: #000000; font-family: 'Courier New', monospace;">
     // Crafted with passion by Habeeb Ajide
     // Building tomorrow's solutions today
   </p>
