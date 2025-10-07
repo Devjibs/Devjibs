@@ -71,7 +71,7 @@
 
 <!-- CREATIVE CODING ANIMATION ABOVE TECH STACK -->
 <div align="center">
-  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="400" height="250" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.3); margin: 20px 0;"/>
+  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="300" height="200" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.3); margin: 20px 0; object-fit: contain;"/>
 </div>
 
 <!-- INNOVATIVE TECH STACK VISUALIZATION -->
