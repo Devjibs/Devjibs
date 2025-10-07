@@ -16,25 +16,29 @@
 <!-- UNIQUE PROFILE LAYOUT -->
 <div align="center">
   
-  <h2>🎯 Mission Statement</h2>
-  <p align="center">
-    <strong>Transforming ideas into intelligent solutions</strong> through cutting-edge software engineering and AI innovation. 
-    With 5+ years of experience in enterprise development, I specialize in architecting scalable systems that drive business growth.
-  </p>
+  <!-- ANIMATED MISSION STATEMENT -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=🎯+Mission+Statement;Transforming+ideas+into+intelligent+solutions;Through+cutting-edge+software+engineering+and+AI+innovation;5+Years+of+Enterprise+Development+Excellence" alt="Mission Statement Animation" />
+  </div>
   
   <br>
   
-  <h3>🧠 Core Expertise</h3>
-  <p align="center">
-    • <strong>Backend Architecture:</strong> .NET Core, Microservices, Event-Driven Design<br>
-    • <strong>Cloud Platforms:</strong> Azure, AWS, Container Orchestration<br>
-    • <strong>AI Integration:</strong> Machine Learning, Data Analytics, Intelligent Systems<br>
-    • <strong>Mobile Development:</strong> Xamarin, React Native, Cross-Platform Solutions
-  </p>
+  <!-- ANIMATED CORE EXPERTISE -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=500&color=000000&center=true&vCenter=true&width=900&lines=🧠+Core+Expertise;Backend+Architecture+%7C+.NET+Core+%7C+Microservices;Cloud+Platforms+%7C+Azure+%7C+AWS+%7C+Container+Orchestration;AI+Integration+%7C+Machine+Learning+%7C+Data+Analytics;Mobile+Development+%7C+Xamarin+%7C+React+Native" alt="Core Expertise Animation" />
+  </div>
   
   <br>
   
-  <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #000000; box-shadow: 0 0 30px #000000;"/>
+  <!-- ANIMATED PROFILE IMAGE -->
+  <div align="center">
+    <img src="https://github.com/devjibs/devjibs/blob/main/assets/coding_avatar.gif" width="250" style="border-radius: 50%; border: 3px solid #000000; box-shadow: 0 0 30px #000000; animation: pulse 2s infinite;"/>
+  </div>
+  
+  <!-- ADDITIONAL ANIMATED ELEMENTS -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems+That+Drive+Business+Growth;Architecting+the+Future+of+Technology;Innovation+Through+Code+and+Intelligence" alt="Additional Animation" />
+  </div>
   
 </div>
 
