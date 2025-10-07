@@ -15,6 +15,16 @@
 
 <!-- UNIQUE PROFILE LAYOUT -->
 <div align="center">
+
+
+<!-- CREATIVE CODING ANIMATION ABOVE TECH STACK -->
+<div align="center">
+  <div style="position: relative; margin: 30px 0; height: 400px;">
+    <!-- FLOATING CODE PARTICLES -->
+    <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" width="400" height="300" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: 1; opacity: 0.6;"/>
+    
+  </div>
+</div>
   
   <!-- MISSION STATEMENT WITH ANIMATED ELEMENTS -->
   <div align="center">
@@ -69,14 +79,6 @@
 
 <br>
 
-<!-- CREATIVE CODING ANIMATION ABOVE TECH STACK -->
-<div align="center">
-  <div style="position: relative; margin: 30px 0; height: 300px;">
-    <!-- FLOATING CODE PARTICLES -->
-    <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" width="400" height="100" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: 1; opacity: 0.6;"/>
-    
-  </div>
-</div>
 
 <!-- INNOVATIVE TECH STACK VISUALIZATION -->
 <div align="center">
