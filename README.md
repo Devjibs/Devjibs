@@ -69,6 +69,22 @@
 
 <br>
 
+<!-- CREATIVE CODING ANIMATION ABOVE TECH STACK -->
+<div align="center">
+  <div style="position: relative; margin: 30px 0;">
+    <!-- FLOATING CODE PARTICLES -->
+    <img src="https://github.com/devjibs/devjibs/blob/main/assets/code_particles.gif" width="400" height="100" style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); z-index: 1;"/>
+    
+    <!-- DEVELOPER CODING ANIMATION -->
+    <div style="position: relative; z-index: 2;">
+      <img src="https://github.com/devjibs/devjibs/blob/main/assets/developer_coding.gif" width="300" height="200" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);"/>
+    </div>
+    
+    <!-- FLOATING TECH ICONS -->
+    <img src="https://github.com/devjibs/devjibs/blob/main/assets/floating_tech_icons.gif" width="350" height="80" style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); z-index: 1;"/>
+  </div>
+</div>
+
 <!-- INNOVATIVE TECH STACK VISUALIZATION -->
 <div align="center">
   <h2>⚡ Technology Arsenal</h2>
